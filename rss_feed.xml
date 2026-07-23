@@ -6,23 +6,23 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 23 Jul 2026 08:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2026 08:03:14 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
     <item>
-      <title>macOS Monterey 12.5</title>
-      <link>https://support.apple.com/kb/HT213345</link>
+      <title>macOS Monterey 12.6</title>
+      <link>https://support.apple.com/kb/sdfsfsdfs</link>
       <description>
           Vulnerabilities Addressed: 71&lt;br&gt;
           Exploited CVE(s): 2&lt;br&gt;
           Apple Security Bulletin: https://support.apple.com/kb/HT213345&lt;br&gt;
           Security Details: https://sofa.macadmins.io/macos/sequoia
       </description>
-      <guid isPermaLink="false">macOS_OS_12.5</guid>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">macOS_OS_12.6</guid>
+      <pubDate>Wed, 23 Jul 2022 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS the fixed edition</title>
