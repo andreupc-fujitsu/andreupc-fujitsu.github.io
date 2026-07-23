@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 13:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2026 07:02:14 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+      <title>TITLE</title>
+      <link>LINK</link>
+      <description>DESCRIPTION</description>
+      <guid isPermaLink="false">GUID</guid>
+      <pubDate>Mon, 23 Jul 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Xcode 27 beta 4 (27A5228h)</title>
       <link>https://developer.apple.com/go/?id=xcode-27-sdk-rn</link>
