@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 23 Jul 2026 08:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2026 08:05:14 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+      <title>macOS Ventura 13.7.8</title>
+      <link>https://support.apple.com/kb/HT214321</link>
+      <description>Security Update | Vulnerabilities Addressed: 54 | Exploited CVE(s): 1 | Apple Security Bulletin: https://support.apple.com/kb/HT214321</description>
+      <guid isPermaLink="false">macOS_13.7.8</guid>
+      <pubDate>Thu, 23 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>macOS Sequoia 15.7</title>
       <link>https://support.apple.com/kb/HT888888</link>
