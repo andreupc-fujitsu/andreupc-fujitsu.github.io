@@ -12,6 +12,62 @@
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+      <item>
+      <title>macOS 28.0 beta 2 (28A5101b)</title>
+      <link>https://developer.apple.com/go/?id=macos-28-rn</link>
+      <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28A5101b</description>
+      <guid isPermaLink="false">TEST_BETA_001</guid>
+      <pubDate>Thu, 23 Jul 2026 15:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.8</title>
+      <link>https://support.apple.com/en-us/test-patch-001</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
+      <guid isPermaLink="false">TEST_PATCH_001</guid>
+      <pubDate>Thu, 23 Jul 2026 15:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.9</title>
+      <link>https://support.apple.com/en-us/test-sec-001</link>
+      <description>Vulnerabilities Addressed: 42&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-sec-001</description>
+      <guid isPermaLink="false">TEST_SECURITY_001</guid>
+      <pubDate>Thu, 23 Jul 2026 15:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.10</title>
+      <link>https://support.apple.com/en-us/test-critical-001</link>
+      <description>Vulnerabilities Addressed: 3&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-critical-001</description>
+      <guid isPermaLink="false">TEST_CRITICAL_001</guid>
+      <pubDate>Thu, 23 Jul 2026 15:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sonoma 14.8.8</title>
+      <link>https://support.apple.com/en-us/test-patch-002</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
+      <guid isPermaLink="false">TEST_PATCH_002</guid>
+      <pubDate>Thu, 23 Jul 2026 15:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Ventura 13.7.9</title>
+      <link>https://support.apple.com/en-us/test-sec-002</link>
+      <description>Vulnerabilities Addressed: 25&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-sec-002</description>
+      <guid isPermaLink="false">TEST_SECURITY_002</guid>
+      <pubDate>Thu, 23 Jul 2026 15:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS 28.0 beta 3 (28A5201c)</title>
+      <link>https://developer.apple.com/go/?id=macos-28-rn</link>
+      <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28A5201c</description>
+      <guid isPermaLink="false">TEST_BETA_002</guid>
+      <pubDate>Thu, 23 Jul 2026 15:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Tahoe 26.6.1</title>
+      <link>https://support.apple.com/en-us/test-critical-002</link>
+      <description>Vulnerabilities Addressed: 7&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-critical-002</description>
+      <guid isPermaLink="false">TEST_CRITICAL_002</guid>
+      <pubDate>Thu, 23 Jul 2026 15:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>macOS Sequoia 15.7.10</title>
       <link>https://support.apple.com/en-us/test-critical</link>
