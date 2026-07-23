@@ -12,7 +12,86 @@
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
-      <item>
+    <item>
+    <title>macOS Sequoia 15.7.11</title>
+    <link>https://support.apple.com/en-us/test-security-003</link>
+    <description>Vulnerabilities Addressed: 52&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-security-003</description>
+    <guid isPermaLink="false">TEST_SECURITY_003</guid>
+    <pubDate>Thu, 23 Jul 2026 13:20:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Tahoe 26.6.2</title>
+    <link>https://support.apple.com/en-us/test-patch-003</link>
+    <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
+    <guid isPermaLink="false">TEST_PATCH_003</guid>
+    <pubDate>Thu, 23 Jul 2026 13:21:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Sonoma 14.8.8</title>
+    <link>https://support.apple.com/en-us/test-security-004</link>
+    <description>Vulnerabilities Addressed: 18&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-security-004</description>
+    <guid isPermaLink="false">TEST_SECURITY_004</guid>
+    <pubDate>Thu, 23 Jul 2026 13:22:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS 28.0 beta 4 (28A5301d)</title>
+    <link>https://developer.apple.com/go/?id=macos-28-rn</link>
+    <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28A5301d</description>
+    <guid isPermaLink="false">TEST_BETA_003</guid>
+    <pubDate>Thu, 23 Jul 2026 13:23:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Ventura 13.7.10</title>
+    <link>https://support.apple.com/en-us/test-critical-003</link>
+    <description>Vulnerabilities Addressed: 1&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-critical-003</description>
+    <guid isPermaLink="false">TEST_CRITICAL_003</guid>
+    <pubDate>Thu, 23 Jul 2026 13:24:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Sequoia 15.7.12</title>
+    <link>https://support.apple.com/en-us/test-patch-004</link>
+    <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
+    <guid isPermaLink="false">TEST_PATCH_004</guid>
+    <pubDate>Thu, 23 Jul 2026 13:25:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Tahoe 26.6.3</title>
+    <link>https://support.apple.com/en-us/test-security-005</link>
+    <description>Vulnerabilities Addressed: 33&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-security-005</description>
+    <guid isPermaLink="false">TEST_SECURITY_005</guid>
+    <pubDate>Thu, 23 Jul 2026 13:26:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS 28.0 beta 5 (28A5401e)</title>
+    <link>https://developer.apple.com/go/?id=macos-28-rn</link>
+    <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28A5401e</description>
+    <guid isPermaLink="false">TEST_BETA_004</guid>
+    <pubDate>Thu, 23 Jul 2026 13:27:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Sonoma 14.8.9</title>
+    <link>https://support.apple.com/en-us/test-critical-004</link>
+    <description>Vulnerabilities Addressed: 4&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-critical-004</description>
+    <guid isPermaLink="false">TEST_CRITICAL_004</guid>
+    <pubDate>Thu, 23 Jul 2026 13:28:00 +0000</pubDate>
+</item>
+
+<item>
+    <title>macOS Ventura 13.7.11</title>
+    <link>https://support.apple.com/en-us/test-patch-005</link>
+    <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0</description>
+    <guid isPermaLink="false">TEST_PATCH_005</guid>
+    <pubDate>Thu, 23 Jul 2026 13:30:00 +0000</pubDate>
+</item>
+    <item>
       <title>macOS 28.0 beta 2 (28A5101b)</title>
       <link>https://developer.apple.com/go/?id=macos-28-rn</link>
       <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28A5101b</description>
