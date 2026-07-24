@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 23 Jul 2026 08:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2026 08:36:14 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+    <title>macOS 28.1 beta 1 (28B5001a)</title>
+    <link>https://developer.apple.com/go/?id=macos-28-rn</link>
+    <description>Developer Beta Release for macOS&lt;br&gt;New features and improvements preview&lt;br&gt;Build Number: 28B5001a</description>
+    <guid isPermaLink="false">TEST_BETA_006</guid>
+    <pubDate>Fri, 24 Jul 2026 08:35:00 +0000</pubDate>
+</item>
     <item>
     <title>macOS 28.0 beta 6 (28A5501f)</title>
     <link>https://developer.apple.com/go/?id=macos-28-rn</link>
