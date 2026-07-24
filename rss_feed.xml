@@ -6,12 +6,19 @@
     <description>Simple Organized Feed for Apple Software Updates - Security releases and updates</description>
     <language>en-us</language>
     <generator>SOFA RSS Generator 2.0</generator>
-    <lastBuildDate>Wed, 24 Jul 2026 08:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2026 08:49:00 +0000</lastBuildDate>
     <image>
       <url>https://sofa.macadmins.io/images/custom_logo.png</url>
       <title>SOFA</title>
       <link>https://sofa.macadmins.io</link>
     </image>
+    <item>
+    <title>macOS Ventura 13.7.13</title>
+    <link>https://support.apple.com/en-us/test-critical-006</link>
+    <description>Vulnerabilities Addressed: 6&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Apple Security Bulletin: https://support.apple.com/en-us/test-critical-006</description>
+    <guid isPermaLink="false">TEST_CRITICAL_006</guid>
+    <pubDate>Fri, 24 Jul 2026 08:49:00 +0000</pubDate>
+</item>
     <item>
     <title>macOS Sequoia 15.7.14</title>
     <link>https://support.apple.com/en-us/test-security-007</link>
